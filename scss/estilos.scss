@@ -1,0 +1,18 @@
+$primary:#EFD9D1;
+
+$theme-colors: (
+    "primary":    $primary,
+);
+
+.body{
+    background-color: #F4EEED;
+}
+.logo{
+            background-color: #999B84;
+            display:flex;
+            justify-content: center;
+     }    
+
+
+
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
